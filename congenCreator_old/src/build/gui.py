@@ -13,7 +13,7 @@ import src.congen as cg
 
 OUTPUT_PATH = Path(__file__).parent
 ASSETS_PATH = OUTPUT_PATH / Path(
-    r"C:\Users\Veronica\PycharmProjects\con_generator\src\build\assets\frame0"
+    r"[YOUR DIRECTORY HERE]\con_generator\src\build\assets\frame0"
 )
 
 
