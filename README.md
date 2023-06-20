@@ -30,7 +30,7 @@ into src/workfiles directory and name it accordingly to the dictionary you will 
 !!! Make sure that your dictionary.lang_name is equal to .txt name !!!  
 !!! You need also to rewrite manually path to your project in the __init__ of Dictionary class !!!  
 
-### NOTE: 
+#### NOTE: 
 As there are only 11 words now in .txt included, please DO NOT try to generate 
 12+ names with 1 key and 111+ names with 2 keys - obviously, congenCreator crashes.
 
@@ -38,11 +38,14 @@ As there are only 11 words now in .txt included, please DO NOT try to generate
 ## wordCreator
 
 ### WHAT IS IT:
-It's still a simple word "generator" for conlangs, but with improved "graphics". 
-GUI is totally rewrited and project "code" is totally reorganised.
+It's still a simple word "generator" for conlangs, but improved a bit in comparison with older version. 
+Main changes: GUI is totally rewrited and project "code" is totally reorganised.
 
 Once mvp is developed, old "Creator" will be removed. 
 
-### WHAT IT DOES:
+### WORK IN PROGRESS
 
-!!! WORK IN PROGRESS !!!
+#### TO-DO's:
+- [ ] Place widgets on screen _correctly_
+- [ ] Define and create additional buttons
+- [ ] Start working with what wordCreator does, not with how it looks
