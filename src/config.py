@@ -24,7 +24,7 @@ COLOR_BG = '#D3B890'
 COLOR_FIELD = '#EDDECC'
 
 assets_path = Path(
-    r'C:\Users\Veronica\PycharmProjects\wordCreator\src\build\assets\images'
+    r'[YOUR PATH THERE]\wordCreator\src\build\assets\images'
     )
 
 default_output = 'Line below is 34 "✦" symbols,' \
