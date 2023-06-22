@@ -46,6 +46,6 @@ Once mvp is developed, old "Creator" will be removed.
 ### WORK IN PROGRESS
 
 #### TO-DO's:
-- [ ] Place widgets on screen _correctly_
-- [ ] Define and create additional buttons
+- [X] Place widgets on screen _correctly_
+- [X] Define and create additional buttons
 - [ ] Start working with what wordCreator does, not what it looks like
