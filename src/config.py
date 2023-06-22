@@ -8,6 +8,8 @@ num_of_keys = 0
 radios_word_type = []
 radios_num_of_keys = []
 
+buttons_with_translation = []
+
 using_prefixes = False
 using_suffixes = False
 using_endings = False
@@ -24,9 +26,7 @@ COLOR_BG = '#D3B890'
 COLOR_FIELD = '#EDDECC'
 
 assets_path = Path(
-    r'[YOUR PATH THERE]\wordCreator\src\build\assets\images'
+    r'C:\Users\Veronica\PycharmProjects\wordCreator\src\build\assets\images'
     )
 
-default_output = 'Line below is 34 "✦" symbols,' \
-                 '\nfont - Bitter, 12 points' \
-                 '\n✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦'
+default_output = '✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦'
