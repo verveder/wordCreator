@@ -25,8 +25,6 @@ COLOR_FONT_DARK = '#232218'
 COLOR_BG = '#D3B890'
 COLOR_FIELD = '#EDDECC'
 
-assets_path = Path(
-    r'[YOUR PATH HERE]\wordCreator\src\build\assets\images'
-    )
+images_path = f'{Path.cwd()}\\assets\\images'
 
 default_output = '✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦'
