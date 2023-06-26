@@ -14,9 +14,9 @@ class App(tk.Tk):
 
         self.title('CREATOR')
         self.configure(bg=cf.COLOR_BG)
-        self.iconbitmap(f'{cf.assets_path}\\icon.ico')
+        self.iconbitmap(f'{cf.images_path}\\icon.ico')
 
-        self.image_background = tk.PhotoImage(file=f'{cf.assets_path}\\image_background.png')
+        self.image_background = tk.PhotoImage(file=f'{cf.images_path}\\image_background.png')
 
         self.canvas = tk.Canvas(self, bg=cf.COLOR_BG, height=600, width=800, bd=0, relief='flat')
         self.canvas.place(x=0, y=0)
@@ -336,7 +336,7 @@ class CustomLabel(tk.Label):
 
 def get_path(path: str) -> Path:
     """Returns Path to .images"""
-    return cf.assets_path / Path(path)
+    return cf.images_path / Path(path)
 
 
 def set_word_type(toggle):
