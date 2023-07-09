@@ -9,7 +9,7 @@ from pathlib import Path
 import tkinter
 from tkinter import Tk, Canvas, Entry, Text, Button, PhotoImage, Label
 
-import src.congen as cg
+import congen as cg
 
 OUTPUT_PATH = Path(__file__).parent
 ASSETS_PATH = f'{Path.cwd()}\\assets\\frame0'
