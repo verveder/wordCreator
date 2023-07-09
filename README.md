@@ -22,13 +22,12 @@ You can find some sample words and their RU-translation included
 (words can seem a bit weird, though).
 
 ### HOW TO USE congenCreator FOR YOUR OWN LANGS:
-- Put a .txt with words you want to use
-(only two space separated words per line, conlang first and translation second, i.e.: abracadabra magic)
-into src/workfiles directory and name it accordingly to the dictionary you will use in code.
+- Put into src/workfiles directory a .txt with words you want to use
+(only two words, space separated, per line, conlang first and translation second, i.e.: abracadabra magic)
+ and name it accordingly to the dictionary you will use in code.
 - Create new dictionary with Dictionary class in congen.py, and in gui.py replace 'cg.elven' with your created dictionary.
 
 !!! Make sure that your dictionary.lang_name is equal to .txt name !!!  
-!!! You need also to rewrite manually path to your project in the __init__ of Dictionary class !!!  
 
 #### NOTE: 
 As there are only 11 words now in .txt included, please DO NOT try to generate 
