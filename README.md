@@ -35,16 +35,8 @@ As there are only 11 words now in .txt included, please DO NOT try to generate
 
 
 ## wordCreator
-
-### WHAT IS IT:
-It's still a simple word "generator" for conlangs, but improved a bit in comparison with older version. 
-Main changes: GUI is totally rewrited and project "code" is totally reorganised.
+### !!!WORK IN PROGRESS!!!
 
 Once mvp is developed, old "Creator" will be removed. 
 
-### WORK IN PROGRESS
 
-#### TO-DO's:
-- [X] Place widgets on screen _correctly_
-- [X] Define and create additional buttons
-- [ ] Start working with what wordCreator does, not what it looks like
