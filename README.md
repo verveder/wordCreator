@@ -9,7 +9,7 @@ The default word list is simplified *quenya* dictionary with about 1400 entries
 
 ### HOW TO RUN
 1. Clone the repository
-2. Enter {HOME}/wordCreator/congenCreator_old/src
+2. Enter project's directory
 3. Run gui.py
 
 ### HOW TO USE IT FOR YOUR OWN LANGS:
