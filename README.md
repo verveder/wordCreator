@@ -12,7 +12,7 @@ The default word list is simplified *quenya* dictionary with about 1400 entries
 2. Enter {HOME}/wordCreator/congenCreator_old/src
 3. Run gui.py
 
-### HOW TO USE congenCreator FOR YOUR OWN LANGS:
+### HOW TO USE IT FOR YOUR OWN LANGS:
 - Put into src/workfiles directory a .txt with words you want to use and name it accordingly to the dictionary you will use in code.
 (NOTE: word and its meaning must be space separated, but meaning can be a whole phrase)
 - Create new dictionary with Dictionary class in congen.py, and in gui.py replace 'cg.quenya' with your created dictionary.
