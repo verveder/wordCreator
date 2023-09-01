@@ -15,7 +15,7 @@ airon «ocean»
 aista «holy»
 aistana «blessed»
 aiwë «small bird»
-alacarna «welldone,ellmade»
+alacarna «welldone, wellmade»
 alahasta «unmarred»
 alalbë «inflorescence»
 alalmë «inflorescence»
@@ -75,7 +75,7 @@ andamacil «long sword»
 andatehta «longmark»
 ando «gate, great door; entrances, approaches»
 andúna «western»
-andúnë «sunset, evening, orig. going down;est»
+andúnë «sunset, evening, orig. going down; west»
 anel «daughter»
 anessë «given or added name, nickname, surname»
 anga «iron»
@@ -119,7 +119,7 @@ asta «month; division, part esp. one of other equal parts»
 astalda «strong, valiant»
 astar «faith, loyalty»
 astarindo «bystander; supporter»
-astarmo «bystander;itness»
+astarmo «bystander; witness»
 ataformaitë «ambidextrous»
 atalantë «collapse, downfall»
 atalantëa «ruinous, downfallen»
@@ -135,7 +135,7 @@ attalya «biped, lit. twofooted»
 atto «daddy, father familiar/family»
 atya «daddy, my father»
 atyo «daddy»
-aumo «friend at need, friendith shared interests, colleague»
+aumo «friend at need, friend with shared interests, colleague»
 aunotëa «not counted, uncounted»
 aura «possession, thing owned»
 aurë «day as opposed to night, daylight, sunlight, morning»
@@ -143,7 +143,7 @@ auvanëa «without beauty»
 auvië «possession abstract, the act of possessing»
 avanir «unwill»
 avanwa «refused, forbidden, banned»
-avanyárima «unspeakable,hat one must not tell, not to be told or related»
+avanyárima «unspeakable, what one must not tell, not to be told or related»
 avaquétima «not to be said, that must not be said»
 axan «law, rule, commandment»
 axë «neck vertebrae, rock ridge»
@@ -179,7 +179,7 @@ carë «action, doing, making»
 cárima «feasible, possible to do, able to be done»
 carina «done»
 carma «helm»
-carma «tool, implement, means,eapon»
+carma «tool, implement, means, weapon»
 carma «deed»
 carmë «art; making, production; structure»
 carpa «entire mouth; phonetic system»
@@ -193,7 +193,7 @@ cëa «hedge»
 celima «fluent»
 celumë «flowing, flood tide, stream»
 celundë «welling forth»
-celussë «freshnet,ater falling out swiftly from a rocky spring»
+celussë «freshnet, water falling out swiftly from a rocky spring»
 celva «animal, living thing that moves»
 cemen «the earth; earth»
 cen «sight»
@@ -220,7 +220,7 @@ cilintilla «lookingglass»
 cilintír «lookingglass»
 cilmë «choice, choosing»
 cilmessë «selfname»
-címa «edge of a cuttingeapon/tool»
+címa «edge of a cutting weapon/tool»
 cimba «edge, brink»
 cinta «small»
 circa «sickle»
@@ -240,11 +240,11 @@ coirëa «living»
 coivë «life»
 coivië «life»
 colba «womb»
-colbamarië «gestation, lit.ombresidence»
-colbanavië «gestation, lit.ombbeing»
+colbamarië «gestation, lit. wombresidence»
+colbanavië «gestation, lit. wombbeing»
 cólima «bearable, light of burdens and things comparable, troubles, labors, afflications»
 colindo «bearer»
-colla «borne,orn; vestment, cloak»
+colla «borne, worn; vestment, cloak»
 collo «cloak»
 cólo «burden»
 coloitië «endurance, staunchness, fortitude»
@@ -276,7 +276,7 @@ eäron «ocean, great sea»
 ecellë «urchin, hedgehog»
 ecet «short stabbing sword»
 effírië «death»
-ehtelë «spring, issue ofater»
+ehtelë «spring, issue of water»
 él «star»
 elda «elf, lit. one of the starfolk»
 eldalië «people of the elves, elvenfolk»
@@ -300,7 +300,7 @@ enelmo «gobetween, intervener, intermediary, mediator»
 enestil «middle finger»
 engwa «sickly»
 engwë «thing»
-enquië «elvisheek of six days»
+enquië «elvish week of six days»
 enta «another, one more»
 entan «tomorrow»
 entë «centre»
@@ -329,7 +329,7 @@ fá «breath, puff of breath»
 faila «fairminded, just, generous»
 fairë «spirit disembodied, phantom; radiance»
 falassë «wavebeaten shore, seashore, line of surf»
-falma «crested or foamingave, breaker»
+falma «crested or foaming wave, breaker»
 fana «raiment, veil; bright shape or figure; bodily form of an angelic spirit»
 fána «white»
 fánë «white»
@@ -338,7 +338,7 @@ fantarcenya «perspicacious, penetrating of sight or understanding»
 ?fanto «whale»
 fanwa «veil, screen»
 fanwë «vapour, steam»
-fanya «white cloud,hite and shining thing»
+fanya «white cloud, white and shining thing»
 fanyarë «the skies not heaven or firmament, the upper airs and clouds»
 faralë «hunting»
 fëa «indwelling or incarnate spirit, soul»
@@ -351,13 +351,13 @@ fendë «door»
 fenna «door»
 férima «ready to hand, quickly available»
 filincë «finch»
-finca «clever in pettyays»
+finca «clever in petty ways»
 finca «unglossed»
 finda «having hair, haired»
 finda «fine and delicately made»
 findë «hair especially of the head, tress or plait of hair»
 findelë «tress, lock of hair»
-findessë «head of hair, person’s hair as ahole»
+findessë «head of hair, person’s hair as a whole»
 findilë «head of hair»
 fínë «dexterity»
 fínëa «dexterous»
@@ -396,9 +396,9 @@ haura «huge»
 haura «hoard, store»
 háva «bread collective»
 havar «a loaf or cake of bread»
-hecil «one lost or forsaken by friends,aif, outcast, outlaw»
-hecile «one lost or forsaken by friends,aif, outcast, outlaw f.»
-hecilo «one lost or forsaken by friends,aif, outcast, outlaw m.»
+hecil «one lost or forsaken by friends, waif, outcast, outlaw»
+hecile «one lost or forsaken by friends, waif, outcast, outlaw f.»
+hecilo «one lost or forsaken by friends, waif, outcast, outlaw m.»
 helca «icy, icecold»
 hendumaica «sharpeyed»
 henfanwa «eyescreen, veil upon eyes»
@@ -450,15 +450,15 @@ hróna «eastern, east»
 hrondo «physical body, corporeal form»
 hróta «dwelling underground, artificial cave or rockhewn hall»
 hróva «dark, dark brown of hair»
-hróva «savage,ild»
+hróva «savage, wild»
 hrúcarë «evildoing»
 hruo «wickedness»
-hrúya «evil,icked»
+hrúya «evil, wicked»
 hú «hound or ?heart»
 huinë «gloom, unrelieved darkness, deep shadow, night shade; dark as a substance»
 húna «cursed, accursed»
-hwá «violentind»
-hwarwa «violentind»
+hwá «violent wind»
+hwarwa «violent wind»
 hwermë «gesturecode»
 hwesta «breeze»
 hwindë «birch»
@@ -475,31 +475,31 @@ hyázë «this day»
 ilaurëa «daily»
 illi «all»
 ilquárëa «general»
-ilu «everything, all, thehole»
+ilu «everything, all, the whole»
 ilucara «omnificent»
 iluisa «omniscient»
 ilúvala «omnipotent»
-ilúvë «thehole, the all, allness»
+ilúvë «the whole, the all, allness»
 ilvanya «perfect»
 ilya «every, each, all of a particular group of things»
 ilyarëa «daily»
 ilyë «all»
 imbar «habitation»
-imbë «deep valley,ide ravine, lit. tweenland»
+imbë «deep valley, wide ravine, lit. tweenland»
 imbilat «deep valley»
 imya «same, identical, selfsame»
 incánu «mind master»
 incánussë «mind mastership»
 indemma «mindpicture of apparition in dream»
 indil «lily, other large single flower»
-indo «state of mind, inner thought, mood;ill, resolve»
-indómë «settled character;ill of eru»
+indo «state of mind, inner thought, mood; will, resolve»
+indómë «settled character; will of eru»
 induinen «purpose»
 indyel «small bell»
 inga «top, highest point»
 ingaran «highking»
 ingolë «lore, science, philosophy»
-ingolmo «loremaster,izard, oneith very great knowledge»
+ingolmo «loremaster, wizard, one with very great knowledge»
 ingor «summit of a mountain»
 insangarë «temptation»
 insil «flower, lily»
@@ -508,7 +508,7 @@ ipsin «fine thread»
 írë «desire»
 írima «desirable, lovely»
 isima «imagination, mind»
-istima «wise in sense knowing very much, knowledgeable, veryell informed, learned»
+istima «wise in sense knowing very much, knowledgeable, very well informed, learned»
 íta «flash»
 itara «gleaming»
 itila «twinkling, glinting»
@@ -539,7 +539,7 @@ lamba «physical tongue»
 lambë «language, tongue, dialect»
 lambelë «phonetics»
 lambetengwë «consonant»
-lambina «of tongue, spokenith tongue»
+lambina «of tongue, spoken with tongue»
 lamélima «unlovable»
 lanca «sharp edge not of tools, sudden end»
 landa «boundary»
@@ -548,9 +548,9 @@ lango «neck»
 lanta «fall; falling»
 lantalca «boundary post or mark»
 lantë «fall»
-lanwa «within bounds, limited, finite,elldefined»
+lanwa «within bounds, limited, finite, welldefined»
 lanwë «ebbtide»
-lanya «thread,arp»
+lanya «thread, warp»
 laptë «gluttonous eating»
 lár «league; stop, pause»
 larma «raiment»
@@ -560,7 +560,7 @@ lasselanta «late autumn, lit. leaffall»
 lassewinta «leaf fall, autumn, lit. leaf blowing»
 láta «open not closed»
 látie «openness»
-latina «free of movement, not encumberedith obstacles»
+latina «free of movement, not encumbered with obstacles»
 latya «opening»
 lauca «warm»
 laurë «gold light or colour»
@@ -574,7 +574,7 @@ lélë «will»
 lelya «delicate, beautiful and fine, slender, lovely»
 lenda «journey»
 lengë «gesture, characteristic look, gesture or trait»
-lengwë «yearning, desire forhat is lost or absent»
+lengwë «yearning, desire for what is lost or absent»
 lenwë «leaving, departure»
 lependë «middle finger»
 lepenel «middle finger»
@@ -622,32 +622,32 @@ loicarë «mistaken action»
 loico «corpse, dead body»
 loicolícuma «corpsecandle»
 loima «mistake»
-loiparë «mistake inriting»
+loiparë «mistake in writing»
 loiquetë «mistake in speech»
 lomba «blind»
 lómë «night, dimness, twilight, dusk, darkness»
 lómëa «shadowed, gloomy»
 lómelindë «nightingale, lit. dusksinger»
 lomentie «?journey away»
-lóna «deep pool, mere, riverfeedingell»
+lóna «deep pool, mere, riverfeeding well»
 londë «landlocked haven»
 londië «harbourage»
-lónë «deep pool, riverfeedingell»
+lónë «deep pool, riverfeeding well»
 lónë «isle»
 lopoldë «rabbit»
 lórë «dream»
 lossë «snow, fallen snow; snowwhite, snowy»
-lossë «inflorescence ofhite flowers»
-lossëa «snowy, snowhite»
+lossë «inflorescence of white flowers»
+lossëa «snowy, snow white»
 lótë «flower, single blossom»
 lótessë «may, lit. flowerness»
 lotsë «small single flower»
 lottë «small flower»
 loxa «brown of hair»
-lucando «debtor, oneho trespasses»
+lucando «debtor, one who trespasses»
 lucassë «debt, trespass»
 lucië «debt, trespass»
-lucindo «debtor, oneho trespasses»
+lucindo «debtor, one who trespasses»
 luhta «debt, trespass»
 luimë «flood, floodwater, flooded land; flood tide, high tide»
 lumba «gloomy»
@@ -658,10 +658,10 @@ lúmë «darkness»
 lúmequentalëa «historical»
 lún «deep pool»
 lúna «dark»
-lunca «heavy transportain»
+lunca «heavy transport wain»
 lungumaitë «heavyhanded»
 luntë «boat»
-luqua «heavy transportain»
+luqua «heavy transport wain»
 lúva «bow in forming tengwar, bight, bend, curve»
 má «hand»
 macar «swordsman; forger»
@@ -671,14 +671,14 @@ mahtë «management»
 mahtië «management»
 maia «angelic spirit, the beautiful»
 maica «sharp, piercing»
-maica «blade of a cutting tool oreapon especially swordblade»
+maica «blade of a cutting tool or weapon especially swordblade»
 maina «thing of excellence, treasure»
 maira «admirable, excellent, precious, splendid, sublime»
-mairë «work of high and beautiful art, the process of producing aork»
+mairë «work of high and beautiful art, the process of producing a work»
 mairëa «beautiful of things made by art»
 mairia «beautiful of things made by art»
 maita «hungry»
-maitalë «the act of doing artisticork»
+maitalë «the act of doing artistic work»
 maitar «artist; poet»
 maiwë «gull»
 maiya «angelic spirit»
@@ -749,7 +749,7 @@ millë «?ring»
 mimíre «very beautiful»
 mimírima «very beautiful»
 mína «desiring to start, eager to go»
-minassë «fort, cityith a citadel and centralatch tower»
+minassë «fort, city with a citadel and central watch tower»
 minaurië «enquiry»
 mindë «turret»
 mindon «lofty tower»
@@ -760,17 +760,17 @@ mírëa «jewelled»
 miriéla «?sparkling»
 mírima «very valuable, very precious, very lovely»
 mirröanwë «incarnate»
-miruvor «specialine or cordial»
-miruvórë «mead, nectar, specialine or cordial, drink of the elves, lit. precious juice»
+miruvor «special wine or cordial»
+miruvórë «mead, nectar, special wine or cordial, drink of the elves, lit. precious juice»
 mirwa «precious, valuable»
-mirya «beautiful, lovely oforks of art only»
+mirya «beautiful, lovely of works of art only»
 mistë «drizzle»
 mittandë «infixion, intrusion»
 mittarë «entering»
 mixa «sharppointed»
 mól «slave»
 molda «big, large»
-mólë «labour,ork»
+mólë «labour, work»
 móna «womb»
 mondo «ox»
 morimaitë «blackhanded»
@@ -783,7 +783,7 @@ mussë «soft»
 nacca «narrows, defile, pass, cut»
 náha «narrow»
 nahtana «slain»
-nahte «wounding,ound»
+nahte «wounding, wound»
 naica «bitterly painful or grievous»
 naicando «sinner»
 naico «sinner»
@@ -798,7 +798,7 @@ námo «person, somebody unnamed»
 námo «judge»
 nanca «hewn, slain»
 nanda «?back»
-nanda «valeide»
+nanda «vale wide»
 nandë «valley»
 nando «wide valley, vale»
 nanwa «existing, actual true»
@@ -825,15 +825,15 @@ néca «pale, vague, faint, dim to see»
 neccë «angle»
 necel «thorn»
 nefítë «airbreathing»
-nehtano «one deprived, exilehose rights and goods have been confiscated»
+nehtano «one deprived, exile whose rights and goods have been confiscated»
 nehtar «slayer»
-nehtë «spearhead, gore,edge, narrow prominitory; angle»
+nehtë «spearhead, gore, wedge, narrow prominitory; angle»
 nehtë «honey»
 nemesta «appearance, seeming»
 néna «wet»
 nenda «wet»
 nendë «lake»
-nendil «beast that lives in theater»
+nendil «beast that lives in the water»
 nénimë «february, wetness»
 nenya «wet»
 nerca «sharp, angular»
@@ -856,15 +856,15 @@ níma «phantom, a seeming»
 nimpa «drooping, ailing»
 nimulë «phantom, a seeming»
 ninda «wet»
-nípa «small usuallyith connotation ofeakness»
+nípa «small usually with connotation of weakness»
 niquë «cold»
 niquessë «frostpatterns; snowflake, iceflake; lit. chill feather»
-níra «will as a potential or faculty, individualill in potential»
+níra «will as a potential or faculty, individual will in potential»
 nírë «force»
 nírítë «forceful, exerting great thrust or pressure, driving»
-nirmë «act ofill, exercise ofill»
+nirmë «act of will, exercise of will»
 nissë «woman»
-nisto «largeoman»
+nisto «large woman»
 nitya «little»
 nixë «frost; iceflake or snowflake»
 nöa «former; yesterday; tomorrow»
@@ -888,7 +888,7 @@ nossë «kindred, family»
 nostar «parent, begetter»
 notessë «numeral»
 nótië «counting»
-nótima «countable, limited in numbereight and measure; colloquial moderate in amount, some, few, several»
+nótima «countable, limited in number weight and measure; colloquial moderate in amount, some, few, several»
 numba «bent, humped»
 númë «west»
 númen «west, direction or region of the sunset, occident, lit. going down»
@@ -906,14 +906,14 @@ ohlon «diphthong»
 oholima «confidential»
 ohta «war»
 ohtar «warrior»
-oiala «everlasting, unceasing,ithout end, for ever»
+oiala «everlasting, unceasing, without end, for ever»
 oialëa «eternal»
 oiolairë «eversummer a species of tree»
 ólama «consonant»
 ólamaitë «consonantal»
 olassië «foliage, collection of leaves»
 olba «branch»
-olca «bad,icked»
+olca «bad, wicked»
 olië «company, people together»
 ollë «other one»
 olmië «growth»
@@ -921,7 +921,7 @@ oloirë «great flood»
 olor «dream, vision»
 olosta «dreamy»
 olótë «bloom, the flowers collectively of a single plant»
-olva «plant, growing thingsith roots in the earth»
+olva «plant, growing things with roots in the earth»
 óma «voice, resonance of the vocal chords, vowel»
 ómatailë «vowel lengthening»
 ómataima «vocalic extension»
@@ -946,22 +946,22 @@ ontaril «mother, lit. genetrix»
 ontavalië «puberty, lit. able to beget»
 onwë «child»
 onya «my child»
-ópa «mouth opening ofhich the lips are the edges»
+ópa «mouth opening of which the lips are the edges»
 orco «orc»
 orda «profound»
-órë «heart inner mind;arning, caution, premonition»
+órë «heart inner mind; warning, caution, premonition»
 óricuvoitë «uncommunicative, keeping one’s own counsel not necessarily sinister»
 orma «physical matter»
 ormo «riser»
 orna «high, lofty»
 ornë «tall tree»
 ornemalin «tree bearing yellow flowers»
-ornendur «treekeep, forester,oodsman»
+ornendur «treekeep, forester, woodsman»
 oro «mount, mountain, hill»
 orotinga «mountaintop»
 orróna «eastern»
 ortil «uppoint»
-ortírië «patronage, lit.atching over from above»
+ortírië «patronage, lit. watching over from above»
 orto «mount, mountain, hill»
 orwa «high, lofty»
 oryandë «arising»
@@ -972,12 +972,12 @@ ovéa «consimilar, alike»
 pahta «closed, shut, private»
 pahta «speech»
 palantímië «telepathy»
-palantír «fargazer, farseer, lit. thathich looks far away»
+palantír «fargazer, farseer, lit. that which looks far away»
 palanyantië «telepathy»
 palda «wide, broad»
 palta «flat of the hand»
 parca «naked of persons»
-parma «book,riting, composition,ritten document of some size»
+parma «book, writing, composition, written document of some size»
 parmahentië «book reading»
 parmaresta «bookfair»
 parmatéma «pseries»
@@ -998,7 +998,7 @@ pempë «lip»
 penda «sloping down, steeply inclined»
 pendë «steep incline, hill side»
 penna «lacking; vowel»
-penquanta «full to the brim,ith mouth full»
+penquanta «full to the brim, with mouth full»
 penya «lacking, inadequate»
 pí «small insect, fly»
 pia «little»
@@ -1006,8 +1006,8 @@ picina «little»
 pilinehtar «a reedlike plant, lit. ?arrow thorn»
 pincë «little»
 pirë «toe»
-pirindë «flower that opened and shut quicklyith any change of light»
-pirnë «flower that opened and shut quicklyith any change of light»
+pirindë «flower that opened and shut quickly with any change of light»
+pirnë «flower that opened and shut quickly with any change of light»
 pirucendëa «on the point of her toes»
 pitya «petty, little»
 polda «big»
@@ -1022,9 +1022,9 @@ quantolië «maturity»
 quárë «fist, closed hand»
 quëa «vegetable»
 quelië «fading»
-quellë «late autumn and earlyinter, lit. fading»
+quellë «late autumn and early winter, lit. fading»
 quendë «elf, lit. one that speaks»
-quenderin «quendian, of the quendi, belonging to the elves as ahole»
+quenderin «quendian, of the quendi, belonging to the elves as a whole»
 quendi «female elf»
 quendu «male elf»
 quendya «elvish»
@@ -1037,7 +1037,7 @@ quentaro «speaker, reciter»
 quentasta «historical account»
 quenya «elvish, highelven, elflatin, speech»
 quenyarin «of quenya»
-querma «spinningheel, turntable»
+querma «spinning wheel, turntable»
 querna «turned»
 quessë «feather»
 quessetéma «kwseries»
@@ -1053,14 +1053,14 @@ raica «crooked»
 raima «net»
 raina «netted, enlaced, caught in a net»
 raina «smiling, gracious, sweetfaced»
-rainë «peace, goodill»
+rainë «peace, good will»
 raiwë «lace»
 ráma «wing»
 ramba «wall»
 rána «moon, lit. wayward»
 ránasta «lunar month»
 ranga «yard, full pace»
-ranya «erraticandering»
+ranya «erratic wandering»
 rassë «horn»
 ratta «track»
 rauca «demon»
@@ -1070,19 +1070,19 @@ rauro «lion»
 ráva «free, unfettered, uncontrolled, lawless»
 rávë «roaring noise»
 rávëa «roaring»
-raxa «wain,agon»
+raxa «wain, wagon»
 raxë «danger»
 ré «day period from sunset to sunset»
 rëa «single»
 rehtië «rescue, saving»
 rembë «mesh, net for catching, hunter’s or fisher’s net»
-rembina «entangled, meshed, netted,oven»
+rembina «entangled, meshed, netted, woven»
 remma «snare»
 resta «sown field, tilled ground, acre; fair»
 retto «climber»
 ría «wreath, garland»
 rië «garland»
-riellë «garlanded maiden, maiden crownedith a festive garland»
+riellë «garlanded maiden, maiden crowned with a festive garland»
 riendë «garland»
 ríma «fillet, snood»
 rimbë «host, great number»
@@ -1094,9 +1094,9 @@ rissë «?cleft, ravine»
 rista «cut»
 röa «dog»
 rocco «horse»
-rocindë «debtor, oneho trespasses»
+rocindë «debtor, one who trespasses»
 rohta «debt, trespass»
-rohtalië «thoseho trespass, lit. trespasspeople»
+rohtalië «those who trespass, lit. trespasspeople»
 róma «horn»
 romba «horn, trumpet»
 róme «east»
@@ -1159,7 +1159,7 @@ sercilixa «bloodthirsty»
 sérë «peace»
 siarë «today, this day»
 silima «crystal substance devised by fëanor»
-silma «crystalhite»
+silma «crystal white»
 silmë «starlight»
 síma «imagination, mind»
 sina «this»
@@ -1177,9 +1177,9 @@ söa «filth»
 soica «thirsty»
 solma «hall, chamber»
 songa «mouth interior cavity behind the teeth containing the tongue»
-sú «sound ofind»
+sú «sound of wind»
 súma «hollow cavity, bosom»
-súriquessë «species of grass, lit.ind feather»
+súriquessë «species of grass, lit. wind feather»
 tailë «lengthening»
 taima «extension»
 taina «stretched, elongated»
@@ -1207,35 +1207,35 @@ taras «a great towering building fort/city/castle, tower»
 tarhanwa «throne, lit. high seat»
 tári «queen»
 tárië «height»
-tárion «alternate name of the last day of the eldarin sixdayeek»
+tárion «alternate name of the last day of the eldarin sixday week»
 tárissë «queenship»
 tarma «pillar»
 tarminas «great towering building fort/city/castle, tower»
 tassa «index finger»
 tastil «index finger»
 tata «daddy»
-tauca «stiff,ooden»
+tauca «stiff, wooden»
 taura «very mighty, masterful; vast, of unmeasured might or size»
-taurë «forest, greatood»
+taurë «forest, great wood»
 taurëa «forested»
 tautamo «carpenter carver»
 táva «great tree»
 tecil «pen»
-tehta «written mark, sign, symbol,ritten letter»
+tehta «written mark, sign, symbol, written letter»
 telda «last, final»
 telepta «silver»
 telluma «dome, cupola, vault»
-telma «conclusion, anything used to finish off aork or affair»
-telperin «like silver in hue ororth»
+telma «conclusion, anything used to finish off a work or affair»
+telperin «like silver in hue or worth»
 telu «last»
 telumë «roof, canopy; heaven, sky»
 téma «series»
 tengwa «written letter; sign, token, indicator»
 tengwacilmë «spelling»
 tengwassë «alphabet»
-tengwë «sign, token, indication;riting»
+tengwë «sign, token, indication; writing»
 tengwelë «language general term»
-tengwesta «grammar, morphology, system or code of signs, collection of matter concerningriting, language structure»
+tengwesta «grammar, morphology, system or code of signs, collection of matter concerning writing, language structure»
 tengwestië «language as a concept»
 tengwië «reading; language signing»
 tenna «letter epistola»
@@ -1245,16 +1245,16 @@ tercen «insight, lit. throughsight»
 tercenya «of insight»
 terfantië «temptation»
 terpellië «temptation»
-tië «path, road,ay, line»
+tië «path, road, way, line»
 tildë «a fine sharp point»
-tillë «tip, point;ithin compounds finger, toe»
+tillë «tip, point; within compounds finger, toe»
 tilma «point»
 tinco «metal»
 tincotéma «tseries»
 tindómë «starry twilight, usually time near dawn»
 tinwë «spark, apparent star»
 tirila «watching something»
-tírima «able to beatched, observable»
+tírima «able to be watched, observable»
 tirion «watchtower»
 tirmo «watcher»
 töa «wood as material»
@@ -1288,7 +1288,7 @@ túrëa «mighty, masterful»
 túrin «lord»
 túrinasta «kingdom»
 túrindië «kingdom»
-turindo «purposeful mind, strongill»
+turindo «purposeful mind, strong will»
 turindura «done necessarily»
 turmen «realm»
 turúna «mastered»
@@ -1300,7 +1300,7 @@ tyelca «hasty»
 tyellë «grade, order, step in a stairway or ladder»
 tyelpetéma «palatal series»
 tyulma «mast»
-elma «fixed idea,ill»
+elma «fixed idea, will»
 olon «helmet»
 ossë «fear»
 urië «an act of seeking»
@@ -1330,7 +1330,7 @@ umbon «hill, lump, clump, mass»
 undómë «twilight, time near evening»
 undumë «abyss»
 únehta «atom»
-ungwë «spider’seb»
+ungwë «spider’s web»
 únotëa «not counted, uncounted»
 únótima «numberless, innumerable, countless, difficult/impossible to count»
 unqualë «death agony»
@@ -1338,7 +1338,7 @@ unquë «a hollow»
 únyárima «impossible to recount»
 úpa «dumb unable to speak»
 úpahtëa «speechless»
-úquétima «unspeakable, impossible to say or put intoords, unpronounceable»
+úquétima «unspeakable, impossible to say or put into words, unpronounceable»
 úr «heat»
 úra «nasty»
 úra «torrid, sultry, unpleasantly hot»
@@ -1351,10 +1351,10 @@ urnótima «difficult to count»
 urra «bad»
 ?urtu «death»
 urucárima «hard to make / do»
-urucarin «madeith difficulty»
+urucarin «made with difficulty»
 urulócë «fireserpent, firedrake»
 urunóte «difficult to count»
-uscarë «doingrong»
+uscarë «doing wrong»
 usquë «dusk, dim light»
 úvana «marred»
 úvanëa «without beauty»
@@ -1362,7 +1362,7 @@ usquë «dusk, dim light»
 úvanimo «monster, corrupt or evil creature»
 úvano «monster, corrupt or evil creature»
 úvië «pondering, consideration»
-uxarë «doingrong»
+uxarë «doing wrong»
 úyalë «twilight»
 vailë «wind»
 vailima «windy»
@@ -1448,7 +1448,7 @@ yesta «beginning»
 yomenië «meeting, gathering»
 yonda «enclosed»
 yonda «wide, roomy, extensive»
-yondë «region, any fairly extensive regionithellmarked natural bounds»
+yondë «region, any fairly extensive region with wellmarked natural bounds»
 yondo «son, boy»
 yonna «enclosed»
 yontil «boy, son finger name»
