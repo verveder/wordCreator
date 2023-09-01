@@ -7,7 +7,7 @@ At this stage it's just a primitive Python-based word generator with GUI, and al
 The default word list is simplified *quenya* dictionary with about 1400 entries on nouns and adjectives
 (and *quenya* is elven language created by Tolkien, in case you somehow managed not to know that).
 
-*Note that this dictionary was automatically "cleared" from various symbols so it has some weird entries like "violentind" instead of "violent wind". 
+*Note that this dictionary was automatically "cleared" from various symbols so it can have wronged quenya words or weird meanings.  
 Use it with conscience.*
 
 ### HOW TO RUN
