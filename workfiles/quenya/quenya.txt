@@ -110,7 +110,6 @@ arma «ray of sunlight»
 armaro «neighbor»
 arpo «seizer, thief»
 arquen «noble, knight»
-arra «unglossed»
 arta «high, noble, exalted, lofty»
 artarindo «bystander; supporter»
 arya «excelling, better»
@@ -259,7 +258,6 @@ cuivë «awakening»
 cuivië «awakening»
 cuivië «life»
 culumalda «laburnum, lit. orangetree»
-cúma «unglossed»
 cúna «bent, curved»
 curu «skill»
 curwë «skill of the hand, technical skill and invention»
@@ -343,7 +341,6 @@ fanyarë «the skies not heaven or firmament, the upper airs and clouds»
 faralë «hunting»
 fëa «indwelling or incarnate spirit, soul»
 fëafelmë «spiritimpulse»
-felca «unglossed»
 felco «cave, mine, underground dwelling»
 felmë «impulse, emotion»
 felya «mine, boring, tunnel, underground dwelling»
@@ -352,7 +349,6 @@ fenna «door»
 férima «ready to hand, quickly available»
 filincë «finch»
 finca «clever in petty ways»
-finca «unglossed»
 finda «having hair, haired»
 finda «fine and delicately made»
 findë «hair especially of the head, tress or plait of hair»
@@ -409,8 +405,6 @@ heri «lady»
 hérincë «little lady»
 heru «lord, master»
 hína «child»
-hindë «unglossed»
-hindo «unglossed»
 hintil «baby finger»
 hinyë «baby»
 hlimbë «sliding, gliding, slippery, sleek»
@@ -422,7 +416,6 @@ hlonaitë «phonetic»
 hlonitë «phonetic»
 hó «hound or ?heart»
 höa «big, large»
-holdë «unglossed»
 holla «?shut»
 holma «?shut»
 honda «hearted»
@@ -1268,8 +1261,6 @@ tolpë «thumb»
 toltil «thumb»
 tolya «prominent»
 tolyo «stickerup»
-tomba «unglossed»
-tompë «unglossed»
 torna «hard»
 tornanga «hardiron, iron hard»
 tuilë «spring»
@@ -1320,7 +1311,6 @@ ulcarindo «sinner»
 úmara «bad, illused, evil, sinister»
 úmárë «not good  evil»
 umba «swarm»
-umbacarin «unglossed»
 umbë «imminence, threat; premonition, fear, unwelcome expectation»
 umbon «hill, lump, clump, mass»
 úmë «great collection or crowd of things of the same sort, throng»
